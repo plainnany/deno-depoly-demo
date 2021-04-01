@@ -43,6 +43,7 @@ function handleRequest(request) {
       <p>
         <a href="/json">/json</a> - responds with JSON to the request.
       </p>
+      <p>Helo World</p>
     </body>`,
     {
       headers: {
